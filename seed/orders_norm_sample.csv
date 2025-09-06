@@ -1,0 +1,39 @@
+order_id,order_date,order_status,paid_amount_bdt,due_amount_bdt,conversation_id,order_amount_bdt,successful_order_flag,classification
+SO-1782,2025-09-03,Pending,0,615,,615,True,MCO
+SO-1781,2025-09-03,Pending,0,1350,,1350,True,MCO
+SO-1780,2025-09-03,Pending,0,700,,700,True,MCO
+SO-1779,2025-09-03,Approved,0,700,,700,True,MCO
+SO-1778,2025-09-03,Pending,0,650,,650,True,MCO
+SO-1777,2025-09-03,Pending,0,700,,700,True,MCO
+SO-1776,2025-09-03,Pending,0,650,,650,True,MCO
+SO-1775,2025-09-03,In Transit,0,665,,665,True,MCO
+SO-1774,2025-09-03,In Transit,0,650,,650,True,MCO
+SO-1773,2025-09-03,In Transit,0,700,,700,True,MCO
+SO-1772,2025-09-03,Cancelled,0,700,,700,False,MCO
+SO-1769,2025-09-03,In Transit,0,1230,,1230,True,MCO
+SO-1767,2025-09-03,In Transit,0,1300,,1300,True,MCO
+SO-1766,2025-09-03,In Transit,0,1300,,1300,True,MCO
+SO-1754,2025-09-03,Delivered Payment Collected,650,0,,650,True,MCO
+SO-1765,2025-09-03,In Transit,0,7600,,7600,True,PCMO
+SO-1764,2025-09-03,Cancelled,0,7600,,7600,False,PCMO
+SO-1763,2025-09-03,In Transit,0,1300,,1300,True,MCO
+SO-1762,2025-09-03,In Transit,0,2650,,2650,True,PCMO
+SO-1761,2025-09-03,In Transit,0,650,,650,True,MCO
+SO-1760,2025-09-03,In Transit,0,700,,700,True,MCO
+SO-1759,2025-09-03,In Transit,0,650,,650,True,MCO
+SO-1758,2025-09-03,Cancelled,0,650,,650,False,MCO
+SO-1757,2025-09-03,In Transit,0,650,,650,True,MCO
+SO-1756,2025-09-03,In Transit,0,650,,650,True,MCO
+SO-1755,2025-09-03,In Transit,0,700,,700,True,MCO
+SO-1753,2025-09-03,Cancelled,0,700,,700,False,MCO
+SO-1752,2025-09-03,In Transit,0,1300,,1300,True,MCO
+SO-1751,2025-09-03,On Hold,0,700,,700,True,MCO
+SO-1750,2025-09-03,In Transit,0,700,,700,True,MCO
+SO-1749,2025-09-03,In Transit,0,2650,,2650,True,PCMO
+SO-1748,2025-09-03,In Transit,0,650,,650,True,MCO
+SO-1747,2025-09-03,In Transit,0,700,,700,True,MCO
+SO-1746,2025-09-03,Pending,0,615,,615,True,MCO
+SO-1745,2025-09-03,In Transit,0,1300,,1300,True,MCO
+SO-1744,2025-09-03,Cancelled,0,1300,,1300,False,MCO
+SO-1743,2025-09-03,In Transit,0,650,,650,True,MCO
+,,nan,650,46975,,47625,True,PCMO

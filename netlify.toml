@@ -1,0 +1,12 @@
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[functions]
+  node_bundler = "esbuild"
+
+# 07:00 Asia/Dhaka = 01:00 UTC
+[[scheduled.functions]]
+  name = "daily-recompute"
+  cron = "0 1 * * *"
