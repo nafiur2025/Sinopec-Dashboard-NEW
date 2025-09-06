@@ -10,3 +10,6 @@
 [[scheduled.functions]]
   name = "daily-recompute"
   cron = "0 1 * * *"
+
+  [[plugins]]
+  package = "@netlify/plugin-nextjs"
